@@ -1,0 +1,24 @@
+{
+    "C:": {
+        "type": "dir",
+        "content": {
+            "Windows": {
+                "type": "dir",
+                "content": []
+            },
+            "Program Files": {
+                "type": "dir",
+                "content": []
+            },
+            "Users": {
+                "type": "dir",
+                "content": {
+                    "Public": {
+                        "type": "dir",
+                        "content": []
+                    }
+                }
+            }
+        }
+    }
+}
